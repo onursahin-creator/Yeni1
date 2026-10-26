@@ -1,0 +1,2360 @@
+{
+  "aciklama": "Türkiye Yüzyılı Maarif Modeli matematik dersi 3-6. sınıf öğrenme çıktıları. Çıktı metinleri MEB'in resmî sitesinden birebir alınmıştır.",
+  "erisim_tarihi": "2026-10-26",
+  "kaynak": "https://tymm.meb.gov.tr/ogretim-programlari/temel-egitim",
+  "notlar": [
+    "uygulamalarda_vurgulanan_kodlar: MEB'in her çıktı için 'Öğrenme-Öğretme Uygulamaları' bölümünde parantez içinde andığı beceri, eğilim, değer ve okuryazarlık kodlarıdır. Temanın tamamına ait beceri listesi değildir.",
+    "Kodlar MEB sayfasındaki haliyle aktarılmıştır. Örneğin bazı sayfalarda 'Sistematiklik' için E3.7 yerine E1.6 yazılmıştır; düzeltilmemiştir.",
+    "4. sınıf Maarif Modeli programı sitede yayımlanmıştır; okullarda hangi öğretim yılından itibaren uygulandığı ayrıca doğrulanmalıdır.",
+    "Ortaokul sayfalarında tema numaraları sitedeki başlıklardan alınmıştır (ör. 5. ve 6. sınıf 'Sayılar ve Nicelikler (2)' sitede '1. Tema' olarak geçer)."
+  ],
+  "ciktilar": [
+    {
+      "kod": "MAT.3.1.1",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Niceliklerin büyüklüklerine karşılık gelen 1000’e kadar olan sayıların temsillerinden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.2",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "1000’e kadar olan sayıları çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.3"
+        ],
+        "matematik_alan": [
+          "MAB5.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.2"
+        ],
+        "deger": [
+          "D3.4"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.3",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Sayıları sıralayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "egilim": [
+          "E2.5",
+          "E2.2"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.3"
+        ],
+        "deger": [
+          "D4.1",
+          "D14.1",
+          "D16.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.4",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Sayıları ileriye ve geriye doğru ritmik sayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.2"
+        ],
+        "okuryazarlik": [
+          "OB1",
+          "OB2"
+        ],
+        "deger": [
+          "D14.1",
+          "D10.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.5",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Sayıları tek-çift olarak sınıflandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB1.2"
+        ],
+        "deger": [
+          "D4.1",
+          "D14.1",
+          "D16.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.6",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Tek ve çift sayıların toplamlarının tek ya da çift olma durumu arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D4.1",
+          "D14.1"
+        ],
+        "kavramsal": [
+          "KB2.13"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.7",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D4.1",
+          "D14.1"
+        ],
+        "kavramsal": [
+          "KB2.14"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.8",
+      "sinif": 3,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Bir çokluktaki ilişkilerden yararlanarak 100’e kadar olan nesnelerin sayısını tahmin edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ],
+        "egilim": [
+          "E2.2",
+          "E3.6",
+          "E2.5"
+        ],
+        "deger": [
+          "D4.1",
+          "D14.1"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/249"
+    },
+    {
+      "kod": "MAT.3.1.9",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Bütün, yarım ve çeyreğin kesirle gösterimi için modellerden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.10",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Bir bütünü eş parçalar oluşturacak şekilde birim kesir olarak çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {},
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.11",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Bir kesrin payı ile paydası arasındaki ilişkiyi çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D3.4"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB3.2",
+          "SDB1.2",
+          "SDB3.3"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "egilim": [
+          "E3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.12",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Analog ve dijital saatlerde zamanı okuyabilme ve yazabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.13",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Zaman ölçü birimlerini çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.2",
+          "SDB3.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.14",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Olayların oluş sürelerini tahmin ederek yargıda bulunabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB7"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.15",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Uzunluk ve kütle birimleri arasındaki ilişkileri kullanarak bu birimleri kendi içerisinde çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "egilim": [
+          "E2.5"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.1.16",
+      "sinif": 3,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Madenî ve kâğıt paraları değerlerine göre ilişkilendirerek yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.8"
+        ],
+        "deger": [
+          "D19.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/254"
+    },
+    {
+      "kod": "MAT.3.2.1",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.6"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.2",
+          "SDB3.1",
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.2",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Toplama ve çıkarma işlemlerini çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.1"
+        ],
+        "deger": [
+          "D16.3"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.3",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Çarpma ve bölme işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB1"
+        ],
+        "egilim": [
+          "E3.7"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB2.1",
+          "SDB1.1",
+          "SDB1.2"
+        ],
+        "kavramsal": [
+          "KB2.7"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.4",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Çarpma ve bölme işlemlerini çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.5",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem gerektiren durumlar için verilen yönergeleri takip ederek yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E2.5",
+          "E3.7"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.6",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem gerektiren günlük yaşam problemlerini çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.3",
+          "KB2.10"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.2",
+          "SDB3.1",
+          "SDB1.1",
+          "SDB1.3"
+        ],
+        "egilim": [
+          "E3.6"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.7",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem gerektiren problem durumlarını yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E2.2"
+        ],
+        "deger": [
+          "D4.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.2.8",
+      "sinif": 3,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.6"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/264"
+    },
+    {
+      "kod": "MAT.3.3.1",
+      "sinif": 3,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Geometrik cisimlerin özelliklerini yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB2.1"
+        ],
+        "deger": [
+          "D7.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/275"
+    },
+    {
+      "kod": "MAT.3.3.2",
+      "sinif": 3,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Kenar sayılarına göre geometrik şekilleri sınıflandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.1"
+        ],
+        "egilim": [
+          "E2.5"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/275"
+    },
+    {
+      "kod": "MAT.3.3.3",
+      "sinif": 3,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Matematiksel araç ve teknolojileri kullanarak çeşitli geometrik şekilleri ve cisimleri çizebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.18"
+        ],
+        "egilim": [
+          "E1.5",
+          "E3.3"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/275"
+    },
+    {
+      "kod": "MAT.3.3.4",
+      "sinif": 3,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Standart olmayan ve standart ölçme araçları ile geometrik şekillerin çevre uzunluğunu tahmin edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.4"
+        ],
+        "egilim": [
+          "E2.5",
+          "E3.8"
+        ],
+        "deger": [
+          "D12.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.2",
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/275"
+    },
+    {
+      "kod": "MAT.3.3.5",
+      "sinif": 3,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Standart sıvı ölçü birimleri cinsinden sıvı miktarını tahmin edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB3.3",
+          "SDB1.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/275"
+    },
+    {
+      "kod": "MAT.3.3.6",
+      "sinif": 3,
+      "tema_no": 5,
+      "tema": "Nesnelerin Geometrisi (2)",
+      "cikti": "Birden fazla simetri doğrusu olan şekilleri çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E3.2",
+          "E3.6"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/284"
+    },
+    {
+      "kod": "MAT.3.3.7",
+      "sinif": 3,
+      "tema_no": 5,
+      "tema": "Nesnelerin Geometrisi (2)",
+      "cikti": "Bir parçası verilen simetrik şekli simetri doğrusuna göre yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E2.5",
+          "E3.6",
+          "E1.3"
+        ],
+        "kavramsal": [
+          "KB2.2",
+          "KB2.7"
+        ],
+        "okuryazarlik": [
+          "OB2",
+          "OB4"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.2",
+          "SDB1.2"
+        ],
+        "deger": [
+          "D7.1",
+          "D16.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/284"
+    },
+    {
+      "kod": "MAT.3.3.8",
+      "sinif": 3,
+      "tema_no": 5,
+      "tema": "Nesnelerin Geometrisi (2)",
+      "cikti": "Yönerge ile yapılandırılan ve bir parçası verilen bir şekli tamamlayarak simetrisini oluşturmaya ilişkin kodlama stratejilerini kullanarak yargıda bulunabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB4"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB1.2",
+          "SDB3.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/284"
+    },
+    {
+      "kod": "MAT.3.4.1",
+      "sinif": 3,
+      "tema_no": 6,
+      "tema": "Veriye Dayalı Araştırma",
+      "cikti": "Kategorik ve sayma ile elde edilen nicel veriye dayalı tek veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E1.6",
+          "E3.2",
+          "E2.5",
+          "E3.7"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB3.3",
+          "SDB2.2",
+          "SDB3.1",
+          "SDB1.3",
+          "SDB1.2"
+        ],
+        "deger": [
+          "D3.4",
+          "D3.2",
+          "D14.1",
+          "D3.3"
+        ],
+        "matematik_alan": [
+          "MAB3.1"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/288"
+    },
+    {
+      "kod": "MAT.4.1.1",
+      "sinif": 4,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Niceliklerin büyüklükleri için en fazla altı basamaklı olan sayıların temsillerinden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D3.4"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/294"
+    },
+    {
+      "kod": "MAT.4.1.2",
+      "sinif": 4,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "En fazla altı basamaklı sayıları çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.2",
+          "SDB2.2"
+        ],
+        "okuryazarlik": [
+          "OB1",
+          "OB2"
+        ],
+        "kavramsal": [
+          "KB2.14"
+        ],
+        "egilim": [
+          "E3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/294"
+    },
+    {
+      "kod": "MAT.4.1.3",
+      "sinif": 4,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Sayıları sıralayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "deger": [
+          "D3.3",
+          "D16.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/294"
+    },
+    {
+      "kod": "MAT.4.1.4",
+      "sinif": 4,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "İleriye ve geriye doğru ritmik saymayı yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E2.5"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "deger": [
+          "D3.4"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/294"
+    },
+    {
+      "kod": "MAT.4.1.5",
+      "sinif": 4,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Artan azalan sayı örüntüleri ve şekil örüntülerindeki değişimi genelleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.7"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/294"
+    },
+    {
+      "kod": "MAT.4.1.6",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Basit, bileşik ve tam sayılı kesirleri kullanmak için matematiksel temsillerden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.1"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.7",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Denk kesirleri kullanmak için matematiksel temsillerden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ],
+        "deger": [
+          "D1.2"
+        ],
+        "okuryazarlik": [
+          "OB3",
+          "OB2"
+        ],
+        "matematik_alan": [
+          "MAB5.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.8",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Birim kesirlerin büyüklük küçüklük ilişkilerini çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB2.1"
+        ],
+        "egilim": [
+          "E2.5"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.9",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Paydaları eşit olan kesirlerin büyüklük küçüklük ilişkilerini çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.2",
+          "SDB1.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.10",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Bir çokluğun basit kesir kadarını ve bir basit kesir kadarı verilen çokluğun tamamını çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.11",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Paydaları eşit kesirlerle toplama ve çıkarma işlemini yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.12",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Paydaları eşit kesirlerle toplama ve çıkarma işlemi gerektiren günlük yaşam problemlerine çözüm geliştirebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.1",
+          "SDB1.2",
+          "SDB3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.1.13",
+      "sinif": 4,
+      "tema_no": 2,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Uzunluk ve kütle birimlerinin kendi içerisindeki dönüşümlerini yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB5.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB1.1"
+        ],
+        "deger": [
+          "D8.1",
+          "D10.1"
+        ],
+        "okuryazarlik": [
+          "OB7"
+        ],
+        "egilim": [
+          "E2.5",
+          "E3.3",
+          "E3.8"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/299"
+    },
+    {
+      "kod": "MAT.4.2.1",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Toplama ve çıkarma işlemlerini zihinden yaparak çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {},
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.2",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "En çok dört basamaklı sayılarla toplama ve çıkarma işlemlerini yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.1",
+          "SDB1.2"
+        ],
+        "egilim": [
+          "E3.7"
+        ],
+        "deger": [
+          "D14.1"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.3",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Çarpma ve bölme işlemlerinin sonucunu tahmin edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB1.2",
+          "SDB2.1",
+          "SDB3.3"
+        ],
+        "kavramsal": [
+          "KB2.7"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.4",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Zihinden çözümlenen çarpma ve bölme işlemleri ile bu işlemlerin kısa yollarını yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.5",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Çarpma ve bölme işlemlerini çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.6",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem içeren yönergeler oluşturarak süreci yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB1.2",
+          "SDB3.2",
+          "SDB3.3"
+        ],
+        "egilim": [
+          "E2.5",
+          "E3.7"
+        ],
+        "deger": [
+          "D15.1"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.7",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem gerektiren problemleri çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D13.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.2"
+        ],
+        "kavramsal": [
+          "KB2.10"
+        ],
+        "egilim": [
+          "E3.6"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.8",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem gerektiren problem durumlarını yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.3"
+        ],
+        "deger": [
+          "D4.1",
+          "D6.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.2"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.2.9",
+      "sinif": 4,
+      "tema_no": 3,
+      "tema": "İşlemlerden Cebirsel Düşünmeye",
+      "cikti": "Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D18.3"
+        ],
+        "egilim": [
+          "E3.6"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/300"
+    },
+    {
+      "kod": "MAT.4.3.1",
+      "sinif": 4,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Geometrik cisimlerin açınımlarını yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.12"
+        ],
+        "deger": [
+          "D9.2",
+          "D7.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.2",
+          "SDB3.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/301"
+    },
+    {
+      "kod": "MAT.4.3.2",
+      "sinif": 4,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Geometrik şekilleri kenar ve köşelerine göre yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "deger": [
+          "D3.3",
+          "D14.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/301"
+    },
+    {
+      "kod": "MAT.4.3.3",
+      "sinif": 4,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Geometrik şekillerin çevre uzunluğunu ölçmede matematiksel araç ve teknolojiden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/301"
+    },
+    {
+      "kod": "MAT.4.3.4",
+      "sinif": 4,
+      "tema_no": 4,
+      "tema": "Nesnelerin Geometrisi (1)",
+      "cikti": "Standart olmayan ölçü birimleri cinsinden şekillerin alanlarını tahmin edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB1.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/301"
+    },
+    {
+      "kod": "MAT.4.3.5",
+      "sinif": 4,
+      "tema_no": 5,
+      "tema": "Nesnelerin Geometrisi (2)",
+      "cikti": "Günlük yaşamdan örneklerle açıyı bir dönme miktarı olarak yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E2.5"
+        ],
+        "kavramsal": [
+          "KB2.18"
+        ],
+        "deger": [
+          "D3.4"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/302"
+    },
+    {
+      "kod": "MAT.4.3.6",
+      "sinif": 4,
+      "tema_no": 5,
+      "tema": "Nesnelerin Geometrisi (2)",
+      "cikti": "Açı ölçümüne ilişkin standart ölçme araçlarının gerekliliğini değerlendirebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.7"
+        ],
+        "deger": [
+          "D16.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/302"
+    },
+    {
+      "kod": "MAT.4.3.7",
+      "sinif": 4,
+      "tema_no": 5,
+      "tema": "Nesnelerin Geometrisi (2)",
+      "cikti": "Dik açıyı referans alarak açıları dar ve geniş olarak sınıflandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB5.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/302"
+    },
+    {
+      "kod": "MAT.4.3.8",
+      "sinif": 4,
+      "tema_no": 6,
+      "tema": "Nesnelerin Geometrisi (3)",
+      "cikti": "Geometrik nesneler ve şekiller üzerinden doğruya göre simetriyi yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "okuryazarlik": [
+          "OB4",
+          "OB1"
+        ],
+        "kavramsal": [
+          "KB2.2"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ],
+        "matematik_alan": [
+          "MAB5.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/303"
+    },
+    {
+      "kod": "MAT.4.3.9",
+      "sinif": 4,
+      "tema_no": 6,
+      "tema": "Nesnelerin Geometrisi (3)",
+      "cikti": "Bir şeklin doğruya göre simetrisini yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB4",
+          "OB1"
+        ],
+        "kavramsal": [
+          "KB2.2",
+          "KB2.7"
+        ],
+        "deger": [
+          "D5.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/303"
+    },
+    {
+      "kod": "MAT.4.3.10",
+      "sinif": 4,
+      "tema_no": 6,
+      "tema": "Nesnelerin Geometrisi (3)",
+      "cikti": "Geometrik şekillere dayalı bir yapı oluşturabilmek için kodlama stratejilerini yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.2",
+          "SDB1.3",
+          "SDB3.1",
+          "SDB3.2"
+        ],
+        "deger": [
+          "D7.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/303"
+    },
+    {
+      "kod": "MAT.4.4.1",
+      "sinif": 4,
+      "tema_no": 7,
+      "tema": "Olayların Olasılığı ve Veriye Dayalı Araştırma",
+      "cikti": "Günlük yaşamdan herhangi bir olayın olasılığını “imkânsız, olabilir, kesin” olarak belirleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "deger": [
+          "D14.2"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.2"
+        ],
+        "okuryazarlik": [
+          "OB4"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/304"
+    },
+    {
+      "kod": "MAT.4.4.2",
+      "sinif": 4,
+      "tema_no": 7,
+      "tema": "Olayların Olasılığı ve Veriye Dayalı Araştırma",
+      "cikti": "Kategorik veriye ve sayma ile elde edilen nicel veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB3.3",
+          "SDB2.2",
+          "SDB1.3",
+          "SDB1.2"
+        ],
+        "deger": [
+          "D3.2",
+          "D8.2",
+          "D3.4",
+          "D11.2"
+        ],
+        "okuryazarlik": [
+          "OB7",
+          "OB2"
+        ],
+        "egilim": [
+          "E1.6",
+          "E3.2",
+          "E3.7"
+        ],
+        "matematik_alan": [
+          "MAB3.1",
+          "MAB5.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ilkokul-matematik-dersi/unite/304"
+    },
+    {
+      "kod": "MAT.5.1.1",
+      "sinif": 5,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E3.6"
+        ],
+        "matematik_alan": [
+          "MAB5"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "deger": [
+          "D3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/447"
+    },
+    {
+      "kod": "MAT.5.1.2",
+      "sinif": 5,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB8",
+          "OB1",
+          "OB3",
+          "OB2"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB3.2"
+        ],
+        "deger": [
+          "D7.2",
+          "D17.2",
+          "D16.2"
+        ],
+        "matematik_alan": [
+          "MAB3",
+          "MAB5"
+        ],
+        "egilim": [
+          "E3.10"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/447"
+    },
+    {
+      "kod": "MAT.5.1.3",
+      "sinif": 5,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "deger": [
+          "D19.1",
+          "D16.2",
+          "D14.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.2",
+          "SDB2.1"
+        ],
+        "okuryazarlik": [
+          "OB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/449"
+    },
+    {
+      "kod": "MAT.5.1.4",
+      "sinif": 5,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB7",
+          "OB3"
+        ],
+        "egilim": [
+          "E3.4"
+        ],
+        "deger": [
+          "D1.2",
+          "D17.1",
+          "D5.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB3.3",
+          "SDB2.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/449"
+    },
+    {
+      "kod": "MAT.5.2.1",
+      "sinif": 5,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme",
+      "cikti": "Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D3.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.3",
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/450"
+    },
+    {
+      "kod": "MAT.5.2.2",
+      "sinif": 5,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme",
+      "cikti": "Karşılaştığı günlük hayat ya da matematiksel durumlarda işlem önceliğini yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.7",
+          "E3.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB1.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/450"
+    },
+    {
+      "kod": "MAT.5.2.3",
+      "sinif": 5,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme",
+      "cikti": "Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D17.2",
+          "D11.2"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB3.2",
+          "SDB1.1",
+          "SDB2.3"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ],
+        "okuryazarlik": [
+          "OB4"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/450"
+    },
+    {
+      "kod": "MAT.5.2.4",
+      "sinif": 5,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme",
+      "cikti": "Temel aritmetik işlem içeren durumlardaki algoritmaları yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/450"
+    },
+    {
+      "kod": "MAT.5.3.1",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "egilim": [
+          "E1.2"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ],
+        "deger": [
+          "D7.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.3",
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.3.2",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.3.3",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Açıları ölçmek için matematiksel araç ve teknolojiden yararlanabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.3.4",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.3.5",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.3.6",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D7.1",
+          "D19.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.3.7",
+      "sinif": 5,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D7.1"
+        ],
+        "egilim": [
+          "E3.3"
+        ],
+        "okuryazarlik": [
+          "OB4",
+          "OB2"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.1",
+          "SDB1.2",
+          "SDB2.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/448"
+    },
+    {
+      "kod": "MAT.5.4.1",
+      "sinif": 5,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D14.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/451"
+    },
+    {
+      "kod": "MAT.5.4.2",
+      "sinif": 5,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ],
+        "egilim": [
+          "E1.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/451"
+    },
+    {
+      "kod": "MAT.5.4.3",
+      "sinif": 5,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB3"
+        ],
+        "egilim": [
+          "E3.6"
+        ],
+        "okuryazarlik": [
+          "OB2",
+          "OB4"
+        ],
+        "deger": [
+          "D7.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/451"
+    },
+    {
+      "kod": "MAT.5.4.4",
+      "sinif": 5,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB3",
+          "MAB5"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB3.1",
+          "SDB3.2",
+          "SDB3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/451"
+    },
+    {
+      "kod": "MAT.5.5.1",
+      "sinif": 5,
+      "tema_no": 5,
+      "tema": "İstatistiksel Araştırma Süreci",
+      "cikti": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.8",
+          "E3.6",
+          "E3.7"
+        ],
+        "deger": [
+          "D8.2",
+          "D17.1",
+          "D17.2",
+          "D18.3",
+          "D5.2"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.2",
+          "SDB1.2",
+          "SDB2.1",
+          "SDB1.1"
+        ],
+        "okuryazarlik": [
+          "OB4",
+          "OB6",
+          "OB1",
+          "OB2",
+          "OB3",
+          "OB8"
+        ],
+        "matematik_alan": [
+          "MAB5",
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/452"
+    },
+    {
+      "kod": "MAT.5.5.2",
+      "sinif": 5,
+      "tema_no": 5,
+      "tema": "İstatistiksel Araştırma Süreci",
+      "cikti": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.10",
+          "E3.4",
+          "E3.9",
+          "E3.5"
+        ],
+        "deger": [
+          "D6.2"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "kavramsal": [
+          "KB3.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB2.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/452"
+    },
+    {
+      "kod": "MAT.5.6.1",
+      "sinif": 5,
+      "tema_no": 6,
+      "tema": "Veriden Olasılığa",
+      "cikti": "Herhangi bir olayın olasılığının 0 (imkânsız) ile 1 (kesin) arasında (0 ve 1 dâhil) olduğunu (olasılık spektrumu) yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ],
+        "okuryazarlik": [
+          "OB4"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/455"
+    },
+    {
+      "kod": "MAT.5.6.2",
+      "sinif": 5,
+      "tema_no": 6,
+      "tema": "Veriden Olasılığa",
+      "cikti": "Olayları az ya da çok olasılıklı şeklinde yapılandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E3.9",
+          "E2.5"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.3",
+          "SDB2.1",
+          "SDB3.3",
+          "SDB2.2",
+          "SDB1.2"
+        ],
+        "deger": [
+          "D1.2"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/455"
+    },
+    {
+      "kod": "MAT.6.1.1",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.9"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/456"
+    },
+    {
+      "kod": "MAT.6.1.2",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Bir doğal sayının 2, 3, 4, 5, 6, 9 ve 10 ile tam bölünebilme kriterlerine ilişkin çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E2.5",
+          "E1.1",
+          "E3.7",
+          "E3.6"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/456"
+    },
+    {
+      "kod": "MAT.6.1.3",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Bir doğal sayının asal olma durumunu ve asal çarpanlarını çözümleyebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB3",
+          "MAB5"
+        ],
+        "okuryazarlik": [
+          "OB4",
+          "OB1"
+        ],
+        "egilim": [
+          "E3.3",
+          "E1.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2",
+          "SDB2.1",
+          "SDB2.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/456"
+    },
+    {
+      "kod": "MAT.6.1.4",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (1)",
+      "cikti": "Günlük hayat problemleri ya da matematiksel durumlar üzerinden ortak kat ve ortak böleni yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.2"
+        ],
+        "deger": [
+          "D9.3",
+          "D14.1"
+        ],
+        "egilim": [
+          "E2.5"
+        ],
+        "matematik_alan": [
+          "MAB5",
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/456"
+    },
+    {
+      "kod": "MAT.6.1.5",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesirlerden yararlanarak yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.4",
+          "E2.5"
+        ],
+        "deger": [
+          "D19.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.1",
+          "SDB2.2"
+        ],
+        "matematik_alan": [
+          "MAB3",
+          "MAB5"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/457"
+    },
+    {
+      "kod": "MAT.6.1.6",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Kesir ve bölme işlemi arasındaki ilişkiye yönelik tümevarımsal akıl yürütebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB5"
+        ],
+        "sosyal_duygusal": [
+          "SDB1.3",
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/457"
+    },
+    {
+      "kod": "MAT.6.1.7",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Gerçek yaşam durumlarında karşılaşılan kesir, ondalık ve yüzde gösterimleri ile ilgili dört işlem gerektiren problemleri çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D14.3",
+          "D5.2",
+          "D16.3",
+          "D16.2",
+          "D17.2",
+          "D18.3"
+        ],
+        "okuryazarlik": [
+          "OB1",
+          "OB8",
+          "OB3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.1",
+          "SDB1.2",
+          "SDB2.2"
+        ],
+        "matematik_alan": [
+          "MAB3",
+          "MAB5"
+        ],
+        "egilim": [
+          "E3.2",
+          "E3.6",
+          "E1.1",
+          "E3.3",
+          "E3.10"
+        ],
+        "kavramsal": [
+          "KB2.15",
+          "KB2.10",
+          "KB2.9",
+          "KB2.14"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/457"
+    },
+    {
+      "kod": "MAT.6.1.8",
+      "sinif": 6,
+      "tema_no": 1,
+      "tema": "Sayılar ve Nicelikler (2)",
+      "cikti": "Karşılaştığı günlük hayat ya da matematiksel durumlarda standart uzunluk ölçme birimlerini değerlendirebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D4.2"
+        ],
+        "okuryazarlik": [
+          "OB1"
+        ],
+        "kavramsal": [
+          "KB2.10"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ],
+        "egilim": [
+          "E2.5"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/457"
+    },
+    {
+      "kod": "MAT.6.5.1",
+      "sinif": 6,
+      "tema_no": 5,
+      "tema": "İstatistiksel Araştırma Süreci",
+      "cikti": "Kategorik veya nicel (kesikli) veri ile çalışabilme ve veriye dayalı karar verebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D5.1",
+          "D8.4",
+          "D8.2",
+          "D17.1"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB1.2",
+          "SDB2.2",
+          "SDB3.2"
+        ],
+        "okuryazarlik": [
+          "OB2",
+          "OB3"
+        ],
+        "matematik_alan": [
+          "MAB5"
+        ],
+        "egilim": [
+          "E3.7",
+          "E3.10"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/461"
+    },
+    {
+      "kod": "MAT.6.5.2",
+      "sinif": 6,
+      "tema_no": 5,
+      "tema": "İstatistiksel Araştırma Süreci",
+      "cikti": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.6",
+          "E3.10",
+          "E3.4",
+          "E3.9",
+          "E3.5"
+        ],
+        "deger": [
+          "D6.2",
+          "D1.2",
+          "D8.2",
+          "D14.1",
+          "D3.3"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "kavramsal": [
+          "KB3.3"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.3",
+          "SDB2.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/461"
+    },
+    {
+      "kod": "MAT.6.2.1",
+      "sinif": 6,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "cikti": "Gerçek yaşam durumlarında bilinen niceliklerden bilinmeyen niceliklere ilişkin muhakeme yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "deger": [
+          "D20.3",
+          "D17.2",
+          "D9.3",
+          "D17.1",
+          "D5.2"
+        ],
+        "okuryazarlik": [
+          "OB3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.3",
+          "SDB2.1"
+        ],
+        "egilim": [
+          "E2.5",
+          "E3.2"
+        ],
+        "matematik_alan": [
+          "MAB3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/458"
+    },
+    {
+      "kod": "MAT.6.2.2",
+      "sinif": 6,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "cikti": "Sayı ve şekil örüntülerini yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "kavramsal": [
+          "KB2.9"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/458"
+    },
+    {
+      "kod": "MAT.6.2.3",
+      "sinif": 6,
+      "tema_no": 2,
+      "tema": "İşlemlerle Cebirsel Düşünme ve Değişimler",
+      "cikti": "Cebirsel ifadeler içeren durumlardaki algoritmaları yorumlayabilme",
+      "uygulamalarda_vurgulanan_kodlar": {},
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/458"
+    },
+    {
+      "kod": "MAT.6.3.1",
+      "sinif": 6,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Düzlemde iki paralel doğru ve bir kesen ile oluşan açıları sınıflandırabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB5"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/459"
+    },
+    {
+      "kod": "MAT.6.3.2",
+      "sinif": 6,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Matematiksel araç ve teknolojiden yararlanarak iki paralel doğrunun iki kesenle oluşturduğu şekillerin özelliklerine dair çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E3.7",
+          "E2.5"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB1.2"
+        ],
+        "deger": [
+          "D16.3",
+          "D4.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/459"
+    },
+    {
+      "kod": "MAT.6.3.3",
+      "sinif": 6,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Matematiksel araç ve teknolojiden yararlanarak birbirlerini ortalayan doğru parçalarını köşegen kabul eden dörtgenlere yönelik çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.3"
+        ],
+        "egilim": [
+          "E2.5"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/459"
+    },
+    {
+      "kod": "MAT.6.3.4",
+      "sinif": 6,
+      "tema_no": 3,
+      "tema": "Geometrik Şekiller",
+      "cikti": "Üçgen, yamuk, paralelkenar, eşkenar dörtgen, dikdörtgen ve karenin açıları ile ilgili problemleri çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "sosyal_duygusal": [
+          "SDB3.3"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ],
+        "deger": [
+          "D3.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/459"
+    },
+    {
+      "kod": "MAT.6.4.1",
+      "sinif": 6,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Uzunluk ve alan ölçme birimleri arasındaki ilişkilerle ilgili analojik akıl yürütebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460"
+    },
+    {
+      "kod": "MAT.6.4.2",
+      "sinif": 6,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Dikdörtgenin alan bağıntısına yönelik deneyimlerini paralelkenar ve üçgenin alan bağıntılarına yansıtabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB5"
+        ],
+        "okuryazarlik": [
+          "OB2",
+          "OB4"
+        ],
+        "deger": [
+          "D14.1",
+          "D7.1"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460"
+    },
+    {
+      "kod": "MAT.6.4.3",
+      "sinif": 6,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Geometrik şekillerin alanları ile modellenen gerçek yaşam durumlarına yönelik problem çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ],
+        "deger": [
+          "D10.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460"
+    },
+    {
+      "kod": "MAT.6.4.4",
+      "sinif": 6,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiye yönelik çıkarım yapabilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.1",
+          "SDB1.3",
+          "SDB2.2"
+        ],
+        "egilim": [
+          "E3.4"
+        ],
+        "okuryazarlik": [
+          "OB2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460"
+    },
+    {
+      "kod": "MAT.6.4.5",
+      "sinif": 6,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Çap veya yarıçap uzunluğu verilen bir çemberin uzunluğu ile ilgili problemleri çözebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB3"
+        ],
+        "sosyal_duygusal": [
+          "SDB3.1",
+          "SDB3.3"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460"
+    },
+    {
+      "kod": "MAT.6.4.6",
+      "sinif": 6,
+      "tema_no": 4,
+      "tema": "Geometrik Nicelikler",
+      "cikti": "Çemberde merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki ilişkiye dair tümevarımsal akıl yürütebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "matematik_alan": [
+          "MAB5"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/460"
+    },
+    {
+      "kod": "MAT.6.6.1",
+      "sinif": 6,
+      "tema_no": 6,
+      "tema": "Veriden Olasılığa",
+      "cikti": "Bir olayın olasılığını gözleme dayalı tahmin edebilme",
+      "uygulamalarda_vurgulanan_kodlar": {
+        "egilim": [
+          "E1.1",
+          "E2.5"
+        ],
+        "matematik_alan": [
+          "MAB5",
+          "MAB4",
+          "MAB3"
+        ],
+        "sosyal_duygusal": [
+          "SDB2.2"
+        ],
+        "okuryazarlik": [
+          "OB7",
+          "OB4",
+          "OB2"
+        ],
+        "deger": [
+          "D3.2"
+        ]
+      },
+      "kaynak": "https://tymm.meb.gov.tr/ortaokul-matematik-dersi/unite/462"
+    }
+  ]
+}

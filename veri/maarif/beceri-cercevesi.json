@@ -1,0 +1,399 @@
+{
+  "aciklama": "Türkiye Yüzyılı Maarif Modeli beceri çerçevesinin kodları ve adları.",
+  "erisim_tarihi": "2026-10-26",
+  "kaynaklar": [
+    "https://tymm.meb.gov.tr/beceriler/kavramsal-beceriler",
+    "https://tymm.meb.gov.tr/beceriler/matematik-alan-becerileri",
+    "https://tymm.meb.gov.tr/beceriler/egilimler",
+    "https://tymm.meb.gov.tr/beceriler/sosyal-duygusal-ogrenme-becerileri"
+  ],
+  "not": "Okuryazarlık becerileri (OB) ve değerler (D) bu dosyada henüz yok; öğrenme çıktıları dosyasında yalnız kodlarıyla geçerler.",
+  "kavramsal_beceriler": [
+    {
+      "kod": "KB1",
+      "ad": "Temel Beceriler",
+      "alt": [
+        {
+          "kod": "KB1.1",
+          "ad": "Sayma"
+        },
+        {
+          "kod": "KB1.2",
+          "ad": "Okuma"
+        },
+        {
+          "kod": "KB1.3",
+          "ad": "Yazma"
+        },
+        {
+          "kod": "KB1.4",
+          "ad": "Çizim Yapma"
+        },
+        {
+          "kod": "KB1.5",
+          "ad": "Bulma"
+        },
+        {
+          "kod": "KB1.6",
+          "ad": "Seçme"
+        },
+        {
+          "kod": "KB1.7",
+          "ad": "Belirleme"
+        },
+        {
+          "kod": "KB1.8",
+          "ad": "İşaret Etme"
+        },
+        {
+          "kod": "KB1.9",
+          "ad": "Ölçme"
+        },
+        {
+          "kod": "KB1.10",
+          "ad": "Sunma"
+        },
+        {
+          "kod": "KB1.11",
+          "ad": "Çevirmek"
+        },
+        {
+          "kod": "KB1.12",
+          "ad": "Kaydetme"
+        }
+      ]
+    },
+    {
+      "kod": "KB2",
+      "ad": "Bütünleşik Beceriler",
+      "alt": [
+        {
+          "kod": "KB2.1",
+          "ad": "Çelişki Giderme"
+        },
+        {
+          "kod": "KB2.2",
+          "ad": "Gözlemleme"
+        },
+        {
+          "kod": "KB2.3",
+          "ad": "Özetleme"
+        },
+        {
+          "kod": "KB2.4",
+          "ad": "Çözümleme"
+        },
+        {
+          "kod": "KB2.5",
+          "ad": "Sınıflandırma"
+        },
+        {
+          "kod": "KB2.6",
+          "ad": "Bilgi Toplama"
+        },
+        {
+          "kod": "KB2.7",
+          "ad": "Karşılaştırma"
+        },
+        {
+          "kod": "KB2.8",
+          "ad": "Sorgulama"
+        },
+        {
+          "kod": "KB2.9",
+          "ad": "Genelleme"
+        },
+        {
+          "kod": "KB2.10",
+          "ad": "Çıkarım Yapma"
+        },
+        {
+          "kod": "KB2.11",
+          "ad": "Gözleme Dayalı Tahmin Etme"
+        },
+        {
+          "kod": "KB2.12",
+          "ad": "Mevcut Bilgiye/Veriye Dayalı Tahmin Etme"
+        },
+        {
+          "kod": "KB2.13",
+          "ad": "Yapılandırma"
+        },
+        {
+          "kod": "KB2.14",
+          "ad": "Yorumlama"
+        },
+        {
+          "kod": "KB2.15",
+          "ad": "Yansıtma"
+        },
+        {
+          "kod": "KB2.16",
+          "ad": "Muhakeme (Akıl Yürütme)"
+        },
+        {
+          "kod": "KB2.17",
+          "ad": "Değerlendirme"
+        },
+        {
+          "kod": "KB2.18",
+          "ad": "Tartışma"
+        },
+        {
+          "kod": "KB2.19",
+          "ad": "Mantıksal Denetleme"
+        },
+        {
+          "kod": "KB2.20",
+          "ad": "Sentezleme"
+        }
+      ]
+    },
+    {
+      "kod": "KB3",
+      "ad": "Üst Düzey Düşünme Becerileri",
+      "alt": [
+        {
+          "kod": "KB3.1",
+          "ad": "Karar Verme"
+        },
+        {
+          "kod": "KB3.2",
+          "ad": "Problem Çözme"
+        },
+        {
+          "kod": "KB3.3",
+          "ad": "Eleştirel Düşünme"
+        }
+      ]
+    }
+  ],
+  "matematik_alan_becerileri": [
+    {
+      "kod": "MAB1",
+      "ad": "Matematiksel Muhakeme",
+      "alt": [
+        {
+          "kod": "MAB1.1",
+          "ad": "Matematiksel Doğrulama veya İspat Yapma"
+        }
+      ]
+    },
+    {
+      "kod": "MAB2",
+      "ad": "Matematiksel Problem Çözme",
+      "alt": [
+        {
+          "kod": "MAB2.1",
+          "ad": "Matematiksel Çözümler Geliştirme"
+        }
+      ]
+    },
+    {
+      "kod": "MAB3",
+      "ad": "Matematiksel Temsil",
+      "alt": [
+        {
+          "kod": "MAB3.1",
+          "ad": "Matematiksel Temsillerden Yararlanma"
+        },
+        {
+          "kod": "MAB3.2",
+          "ad": "Matematiksel Temsilleri Değerlendirme"
+        }
+      ]
+    },
+    {
+      "kod": "MAB4",
+      "ad": "Veri ile Çalışma ve Veriye Dayalı Karar Verme",
+      "alt": [
+        {
+          "kod": "MAB4.1",
+          "ad": "İstatistiksel Problemi Belirleme"
+        },
+        {
+          "kod": "MAB4.2",
+          "ad": "Verileri Elde Etme ve Analiz İçin Değerlendirme"
+        },
+        {
+          "kod": "MAB4.3",
+          "ad": "Bulgulara Ulaşma"
+        },
+        {
+          "kod": "MAB4.4",
+          "ad": "Bulguları Yorumlama"
+        }
+      ]
+    },
+    {
+      "kod": "MAB5",
+      "ad": "Matematiksel Araç ve Teknoloji ile Çalışma",
+      "alt": [
+        {
+          "kod": "MAB5.1",
+          "ad": "Matematiksel Araç ve Teknolojiden Yararlanma"
+        }
+      ]
+    }
+  ],
+  "egilimler": [
+    {
+      "kod": "E1",
+      "ad": "Benlik Eğilimleri",
+      "alt": [
+        {
+          "kod": "E1.1",
+          "ad": "Merak"
+        },
+        {
+          "kod": "E1.2",
+          "ad": "Bağımsızlık"
+        },
+        {
+          "kod": "E1.3",
+          "ad": "Azim ve Kararlılık"
+        },
+        {
+          "kod": "E1.4",
+          "ad": "Kendine İnanma (Öz Yeterlilik)"
+        },
+        {
+          "kod": "E1.5",
+          "ad": "Kendine Güvenme (Öz Güven)"
+        },
+        {
+          "kod": "E1.6",
+          "ad": "Seçicilik"
+        }
+      ]
+    },
+    {
+      "kod": "E2",
+      "ad": "Sosyal Eğilimler",
+      "alt": [
+        {
+          "kod": "E2.1",
+          "ad": "Empati"
+        },
+        {
+          "kod": "E2.2",
+          "ad": "Sorumluluk"
+        },
+        {
+          "kod": "E2.3",
+          "ad": "Girişkenlik"
+        },
+        {
+          "kod": "E2.4",
+          "ad": "Güven"
+        },
+        {
+          "kod": "E2.5",
+          "ad": "Oyunseverlik"
+        }
+      ]
+    },
+    {
+      "kod": "E3",
+      "ad": "Entelektüel Eğilimler",
+      "alt": [
+        {
+          "kod": "E3.1",
+          "ad": "Muhakeme"
+        },
+        {
+          "kod": "E3.2",
+          "ad": "Odaklanma"
+        },
+        {
+          "kod": "E3.3",
+          "ad": "Yaratıcılık"
+        },
+        {
+          "kod": "E3.4",
+          "ad": "Gerçeği Arama"
+        },
+        {
+          "kod": "E3.5",
+          "ad": "Açık Fikirlilik"
+        },
+        {
+          "kod": "E3.6",
+          "ad": "Analitiklik"
+        },
+        {
+          "kod": "E3.7",
+          "ad": "Sistematiklik"
+        },
+        {
+          "kod": "E3.8",
+          "ad": "Soru Sorma"
+        },
+        {
+          "kod": "E3.9",
+          "ad": "Şüphe Duyma"
+        },
+        {
+          "kod": "E3.10",
+          "ad": "Eleştirel Bakma"
+        }
+      ]
+    }
+  ],
+  "sosyal_duygusal_ogrenme_becerileri": [
+    {
+      "kod": "SDB1",
+      "ad": "Benlik Becerileri",
+      "alt": [
+        {
+          "kod": "SDB1.1",
+          "ad": "Kendini Tanıma (Öz Farkındalık)"
+        },
+        {
+          "kod": "SDB1.2",
+          "ad": "Kendini Düzenleme (Öz Düzenleme)"
+        },
+        {
+          "kod": "SDB1.3",
+          "ad": "Kendine Uyarlama (Öz Yansıtma)"
+        }
+      ]
+    },
+    {
+      "kod": "SDB2",
+      "ad": "Sosyal Yaşam Becerileri",
+      "alt": [
+        {
+          "kod": "SDB2.1",
+          "ad": "İletişim"
+        },
+        {
+          "kod": "SDB2.2",
+          "ad": "İş Birliği"
+        },
+        {
+          "kod": "SDB2.3",
+          "ad": "Sosyal Farkındalık"
+        }
+      ]
+    },
+    {
+      "kod": "SDB3",
+      "ad": "Ortak/Birleşik Beceriler",
+      "alt": [
+        {
+          "kod": "SDB3.1",
+          "ad": "Uyum"
+        },
+        {
+          "kod": "SDB3.2",
+          "ad": "Esneklik"
+        },
+        {
+          "kod": "SDB3.3",
+          "ad": "Sorumlu Karar Verme"
+        }
+      ]
+    }
+  ]
+}
